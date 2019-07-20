@@ -5,7 +5,8 @@ Usage: mac-changer.py [options]
 
 Options:
 
-  -h, --help            show this help message and exit
+  -h, --help  show this help message and exit
+  
   -i INTERFACE, --interface=INTERFACE
                         
   -m MAC_ADDRESS, --mac_address=MAC_ADDRESS
